@@ -1,0 +1,4 @@
+# executaveis e bibliotecas gerados ao compilar
+*.exe
+*.dll
+*.o
